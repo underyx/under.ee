@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="130px" viewBox="0 0 328 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>logo-color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-51.000000, -58.000000)">
+            <g id="logo-color" transform="translate(51.000000, 58.000000)">
+                <rect id="Rectangle" fill="#1B1219" x="0" y="0" width="328" height="130"></rect>
+                <text id="UNDER" font-family="WorkSans-Regular, Work Sans" font-size="72" font-weight="normal" fill="#3EEACA">
+                    <tspan x="39.292" y="87" text-decoration="underline">U</tspan>
+                    <tspan x="91.132" y="87">NDER</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
