@@ -7,7 +7,7 @@
         <g id="Desktop" transform="translate(-51.000000, -58.000000)">
             <g id="logo-color" transform="translate(51.000000, 58.000000)">
                 <rect id="Rectangle" fill="#1B1219" x="0" y="0" width="328" height="130"></rect>
-                <text id="UNDER" font-family="WorkSans-Regular, Work Sans" font-size="72" font-weight="normal" fill="#3EEACA">
+                <text id="UNDER" font-family="WorkSans-Regular, Work Sans, sans-serif" font-size="72" font-weight="normal" fill="#3EEACA">
                     <tspan x="39.292" y="87" text-decoration="underline">U</tspan>
                     <tspan x="91.132" y="87">NDER</tspan>
                 </text>
